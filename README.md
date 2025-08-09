@@ -69,9 +69,10 @@
 ## 🚀 Featured Projects
 
 ### 🌍 AI & Machine Learning
-- **[TDX360 - Your Smart Travel Planning Chatbot](https://github.com/Hiruni2207/-TDX360---Your-Smart-Travel-Planning-Chatbot)**  
-  *AI-powered chatbot using Groq API, LLaMA3-8B, Mixtral-8x7B for travel planning.*  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white)
+- **[TDX360 – AI-Powered Travel Assistant](https://github.com/Hiruni2207/-TDX360---Your-Smart-Travel-Planning-Chatbot)**  
+  Interactive AI chatbot to help plan trips, find hotels, and give budget-friendly travel tips.  
+  Integrated Groq API for real-time LLM responses, deployed on Streamlit Cloud.  
+  **Tech Stack:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Groq API](https://img.shields.io/badge/Groq%20API-FF4B4B?style=flat&logo=api&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 - **[Deep Learning-Based Detection of Hevea brasiliensis Leaf Diseases](https://github.com/Hiruni2207/Deep-Learning-Based-Detection-of-Hevea-brasiliensis-Leaf-Diseases-for-Sustainable-Cultivation)**  
   *YOLO, VGG16, ResNet50, and EfficientNet for sustainable rubber cultivation.*  
@@ -90,7 +91,8 @@
 ### 📈 Data Science & Forecasting
 - **[A Data-Driven Approach to Hotel Revenue Forecasting in Dubai](https://github.com/Hiruni2207/A-Data-Driven-Approach-to-Hotel-Revenue-Forecasting-in-Dubai)**  
   *LSTM, SARIMAX, Prophet, and XGBoost for predicting hotel revenue.*  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=mlflow&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=python&logoColor=white) ![SARIMAX](https://img.shields.io/badge/SARIMAX-102230?style=flat&logo=python&logoColor=white) ![Prophet](https://img.shields.io/badge/Facebook%20Prophet-0088CC?style=flat&logo=facebook&logoColor=white) ![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat&logo=keras&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-005599?style=flat&logo=python&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 - **[State Space Modeling and Kalman Filter Based Forecasting of Rubber Nursery Growth](https://github.com/Hiruni2207/State-Space-Modeling-and-Kalman-Filter-Based-Forecasting-of-Rubber-Nursery-Growth)**  
   *Forecasting plant growth with state-space models and Kalman filters.*  
