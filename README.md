@@ -67,11 +67,54 @@
 ---
 
 ## 🚀 Featured Projects
-🔹 **[Rubber Plant Nursery Management System](https://github.com/Hiruni2207)** – IoT + ML to optimize plant growth  
-🔹 **[Deep Learning-Based Rubber Leaf Disease Detection](https://github.com/Hiruni2207/Deep-Learning-Based-Detection-of-Hevea-brasiliensis-Leaf-Diseases-for-Sustainable-Cultivation)** – YOLO, VGG16, ResNet50, EfficientNet  
-🔹 **[Hotel Revenue Forecasting](https://github.com/Hiruni2207/A-Data-Driven-Approach-to-Hotel-Revenue-Forecasting-in-Dubai)** – LSTM, Prophet, XGBoost  
-🔹 **[TDX360 Travel Chatbot](https://github.com/Hiruni2207/-TDX360---Your-Smart-Travel-Planning-Chatbot)** – AI-powered travel planning assistant  
-🔹 **[Modeling Dengue Spread in Sri Lanka](https://github.com/Hiruni2207)** – SIS & Lotka-Volterra models in Python  
+
+### 🌍 AI & Machine Learning
+- **[TDX360 - Your Smart Travel Planning Chatbot](https://github.com/Hiruni2207/-TDX360---Your-Smart-Travel-Planning-Chatbot)**  
+  *AI-powered chatbot using Groq API, LLaMA3-8B, Mixtral-8x7B for travel planning.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white)
+
+- **[Deep Learning-Based Detection of Hevea brasiliensis Leaf Diseases](https://github.com/Hiruni2207/Deep-Learning-Based-Detection-of-Hevea-brasiliensis-Leaf-Diseases-for-Sustainable-Cultivation)**  
+  *YOLO, VGG16, ResNet50, and EfficientNet for sustainable rubber cultivation.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+- **[Rubber Plant Growth Prediction Using Stem Diameter](https://github.com/Hiruni2207/Rubber-plant-Growth-Prediction-using-stem-diameter)**  
+  *Predictive modeling using IoT sensor data for rubber nursery optimization.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- **[Leaf Area Density Estimation Using OpenCV](https://github.com/Hiruni2207/Leaf-Area-Density-Estimation-Using-OpenCV-)**  
+  *Computer vision for estimating rubber leaf area density.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+### 📈 Data Science & Forecasting
+- **[A Data-Driven Approach to Hotel Revenue Forecasting in Dubai](https://github.com/Hiruni2207/A-Data-Driven-Approach-to-Hotel-Revenue-Forecasting-in-Dubai)**  
+  *LSTM, SARIMAX, Prophet, and XGBoost for predicting hotel revenue.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=mlflow&logoColor=white)
+
+- **[State Space Modeling and Kalman Filter Based Forecasting of Rubber Nursery Growth](https://github.com/Hiruni2207/State-Space-Modeling-and-Kalman-Filter-Based-Forecasting-of-Rubber-Nursery-Growth)**  
+  *Forecasting plant growth with state-space models and Kalman filters.*  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+- **[Time Series Modeling of Stationary Data Using AR(1) and Seasonal ARIMA](https://github.com/Hiruni2207/Time-Series-Modeling-of-Stationary-Data-Using-AR-1-and-Seasonal-ARIMA-Techniques)**  
+  *Time series forecasting with ARIMA techniques.*  
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+---
+
+### 💻 Software Development
+- **[Online Shopping Cart System for a Supermarket](https://github.com/Hiruni2207/Online-Shopping-Cart-System-for-a-Supermarket)**  
+  *Java-based CLI sales cart system.*  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+
+- **[Contact Book - Full Stack Contact Management System](https://github.com/Hiruni2207/Contact-Book-Full-Stack-Contact-Management-System)**  
+  *PHP-based contact book web application.*  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+- **[MERN Stack Contact Management System](https://github.com/Hiruni2207/MERN-Stack-Contact-Management-System)** *(Private)*  
+  *Full-stack JavaScript contact manager with MongoDB, Express, React, Node.js.*  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+ 
 
 ---
 
