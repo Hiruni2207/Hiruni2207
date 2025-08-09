@@ -4,7 +4,7 @@
 ![Header](https://raw.githubusercontent.com/Hiruni2207/Hiruni2207/main/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Hiruni+Navodya;Electrical+Engineer+%7C+AI+ML+Enthusiast;Machine+Learning+%7C+Computer+Vision;Passionate+about+Innovation+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Hiruni+Navodya;AI+ML+Enthusiast;Machine+Learning+%7C+Computer+Vision;Passionate+about+Innovation+🚀">
 </p>
 
 ---
