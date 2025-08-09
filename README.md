@@ -4,7 +4,7 @@
 ![Header](https://raw.githubusercontent.com/Hiruni2207/Hiruni2207/main/banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Hiruni+Navodya;Electrical+Engineer+%7C+AI+Enthusiast;Machine+Learning+%7C+Computer+Vision;Passionate+about+Innovation+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF7F&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Hiruni+Navodya;Electrical+Engineer+%7C+AI+ML+Enthusiast;Machine+Learning+%7C+Computer+Vision;Passionate+about+Innovation+🚀">
 </p>
 
 ---
@@ -18,32 +18,51 @@
 
 ---
 
-## 🛠 Tech Stack
-**Programming**  
+## 💻 Tech Stack
+
+### 🖥 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Machine Learning & AI**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-**Data Science & Visualization**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=blue)
-
-**Web Development**  
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-**Databases & Tools**  
+### ⚙️ Tools & Environments
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 📊 Data Analysis
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### 🤖 Generative AI & Agentic AI
+![RAG](https://img.shields.io/badge/RAG%20(Retrieval--Augmented%20Generation)-000000?style=flat&logo=githubcopilot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+
+### 📚 Frameworks & Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python&logoColor=blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 🚀 Technical Fields
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=mlflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat&logo=opencv&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4285F4?style=flat&logo=googleanalytics&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-007ACC?style=flat&logo=trello&logoColor=white)
+
 
 ---
 
@@ -53,12 +72,6 @@
 🔹 **[Hotel Revenue Forecasting](https://github.com/Hiruni2207/A-Data-Driven-Approach-to-Hotel-Revenue-Forecasting-in-Dubai)** – LSTM, Prophet, XGBoost  
 🔹 **[TDX360 Travel Chatbot](https://github.com/Hiruni2207/-TDX360---Your-Smart-Travel-Planning-Chatbot)** – AI-powered travel planning assistant  
 🔹 **[Modeling Dengue Spread in Sri Lanka](https://github.com/Hiruni2207)** – SIS & Lotka-Volterra models in Python  
-
----
-
-## 📊 GitHub Stats
-![Hiruni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiruni2207&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni2207&layout=compact&theme=tokyonight)
 
 ---
 
