@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 I'm Hiruni Navodya.
 
 <!-- Banner -->
 ![Header](https://raw.githubusercontent.com/Hiruni2207/Hiruni2207/main/banner.png)
@@ -117,6 +117,13 @@
   *Full-stack JavaScript contact manager with MongoDB, Express, React, Node.js.*  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+
+---
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiruni2207&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiruni2207&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Hiruni2207&theme=tokyonight&hide_border=false)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiruni2207&theme=react-dark)
 
 ---
 
