@@ -119,10 +119,12 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Winner – AtomX Pronuclear Challenge 2025 (*Glow-in-the-Dark Nuclear Paint*)
-- 🥈 Top 5 – ACES Hackathon 2025 (*Kindness Connect Web App*)
-- 🌱 Top 10 – ICRES 2025 Circularity Challenge (*Smart Waste Management System*)
+- 🥇 AtomX Pronuclear Challenge 2025 — Winner | Best Project
+- 🥈 ACES Hackathon 2025 - Finalist (Top 5) 
+- 🌱 ICRES 2025 Circularity Challenge - Finalist (Top 10 Projects)
+- 🥈 Reply Challenges 2025 — World Rank 367
 - 💡 National-level wins in Mathematics, Science, and Innovation Competitions
+
 
 ---
 
