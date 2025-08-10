@@ -133,8 +133,5 @@
 
 ---
 
-<!-- Fun Section -->
-<p align="center">
-  <img src="https://github.com/Hiruni2207/Hiruni2207/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
+
 
