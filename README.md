@@ -120,7 +120,8 @@
 
 ## 🏆 Achievements
 - 🥇 AtomX Pronuclear Challenge 2025 — Winner | Best Project
-- 🥈 ACES Hackathon 2025 - Finalist (Top 5) 
+- 🥈 ACES Hackathon 2025 - Finalist (Top 5)
+- 🥈 FLASH Early Warning Innovation Challenge - Finalist (Top 10 Projects)
 - 🌱 ICRES 2025 Circularity Challenge - Finalist (Top 10 Projects)
 - 🥈 Reply Challenges 2025 — World Rank 367
 - 💡 National-level wins in Mathematics, Science, and Innovation Competitions
